@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001614393240425*1722265211700723371,z0000001614593799279*6710824477464344599,z0000001614596040779*5412741868859790655,z0000001614596069448*6507167146153930195,z0000001614601803979*3403949300808122492,z0000001614601869004*0470398796083200091,z0000001614606238435*1243228884710627689,z0000001614606269000*1328385858848902509</id>
+	<updated>2021-03-02T05:30:53Z</updated>
+	<author>
+		<name>Jake Lee</name>
+		<email>jakelee.business@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614393240425*1722265211700723371</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='filename:invite.ics AND accepted'/>
+		<apps:property name='label' value='Calendar'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614593799279*6710824477464344599</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='@docs.google.com'/>
+		<apps:property name='hasTheWord' value='sheets'/>
+		<apps:property name='label' value='Sheets'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614596040779*5412741868859790655</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@workdomain.com'/>
+		<apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:177ed6b664458ee2'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614596069448*6507167146153930195</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='-@workdomain.com'/>
+		<apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:177ed677d1fd718b'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614601803979*3403949300808122492</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='to' value='youremail+newsletters@gmail.com'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614601869004*0470398796083200091</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='to' value='youremail+discounts@gmail.com'/>
+		<apps:property name='label' value='Discounts'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614606238435*1243228884710627689</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='@docs.google.com'/>
+		<apps:property name='hasTheWord' value='slides'/>
+		<apps:property name='label' value='Slides'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001614606269000*1328385858848902509</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='@docs.google.com'/>
+		<apps:property name='doesNotHaveTheWord' value='sheets OR slides'/>
+		<apps:property name='label' value='Docs'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='cannedResponse'></category>
+		<title>Internal OOO</title>
+		<id>tag:mail.google.com,2009:cannedResponse:177ed6b664458ee2</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content type='html'>&lt;div dir="ltr"&gt;Yo, chilling hard right now. Not going to check emails for 2 weeks. Peace!&lt;/div&gt;
+</content>
+	</entry>
+	<entry>
+		<category term='cannedResponse'></category>
+		<title>External OOO</title>
+		<id>tag:mail.google.com,2009:cannedResponse:177ed677d1fd718b</id>
+		<updated>2021-03-02T05:30:53Z</updated>
+		<content type='html'>&lt;div dir="ltr"&gt;Dear Sender,&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Your message is of the utmost importance to me, I simply cannot wait to get back to work and check my inbox since there is such a thing as too much fun when I&amp;#39;m working with a client like you. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Most sincerest regards,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jeff&lt;/div&gt;&lt;/div&gt;
+</content>
+	</entry>
+</feed>

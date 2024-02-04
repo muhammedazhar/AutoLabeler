@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1660811001168,1660890494517,1660890513323,1660890756859,1661060367861,1661725003924,z0000001659433054340*4909676161447907581,z0000001659463582246*9216038741971678574,z0000001659843756518*7177254776440122278,z0000001660721163487*8244347148876937832,z0000001660753191407*8537208046071272800,z0000001661566133875*0980493499783498383,z0000001661664451385*4743361952283151368,z0000001661946019000*0054796735852450680,z0000001666095414741*3161094768655648534,z0000001666456631681*7916254109225849522,z0000001667907831685*1275229761223883660,z0000001668316006744*4150052350156695970,z0000001670581334145*8000209442669526087,z0000001670581592867*5812144099596082998,z0000001670812391751*2047742189316574007,z0000001671099920053*5901826767476718179,z0000001671101488737*0035403139653039631,z0000001671102414813*8411932640750166169,z0000001676542402483*0648170866943115055,z0000001679383237625*6623976734101020766,z0000001680800546029*7209766314209349194,z0000001681287018927*8149339622908788371,z0000001690703470630*5701570649055013793,z0000001690873478826*2914723526729992699,z0000001692506705307*3611680413453967435,z0000001692600691088*6323898342875888482,z0000001695899532802*4384803531036357486,z0000001695983959425*6153945340228751561,z0000001695984413430*0326233886938000472,z0000001696140856262*3813691799540952438,z0000001696302208246*5970206735198443185,z0000001696304749874*3641636911871956144,z0000001696511541626*1945187624255916320,z0000001696514782796*3707709390842432457,z0000001696695629562*1408845098712069036,z0000001696695793537*8281837976432081532,z0000001696697844461*5295325272755848533,z0000001696698369317*4258242000618269185,z0000001696737957304*6133317003587899709,z0000001696842048572*0906637918353985286,z0000001696843698070*2627712525580167737,z0000001696850037207*4503047251851231925,z0000001696853192965*7648046735454763241,z0000001696966136354*2185436688343398942,z0000001696967226550*4416198645277661574,z0000001697132391066*7908948393352348258,z0000001697218063625*7533356110727709533,z0000001697290875292*5767253786989654016,z0000001697426403801*3203501628547265444,z0000001697615828536*5440678379543915247,z0000001698896288265*8883658220069866373,z0000001698923995483*5650796345708642709,z0000001698936495452*5450807529177981667,z0000001699579805019*7840133938893737916,z0000001700227008316*7710699442995195516</id>
+	<updated>2023-12-19T16:59:34Z</updated>
+	<author>
+		<name>Muhammed Azhar</name>
+		<email>iam.muhammedazhar@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1660811001168</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='retailproducts@email.kotak.in OR notify@getonecard.app OR IndusInd_Bank@indusind.com OR noreply@indusind.com OR robots@dbrand.com OR android@theintelligence.com OR offers@emailer.sbicard.com OR customer.communication@custcom.yesbank.email OR informations@hdfcbank.net OR noreply@updates.tataneu.com OR hello@benefits.timesprime.com OR CaratLane@mailer.caratlane.com OR info@lulugroupindia.net OR info@mailer.netflix.com OR no-reply@artifact.news OR info@members.netflix.com OR notify@notification.onescore.app OR offers@information.bajajfinserv.in OR campaigns@mail.stockal.com OR stanford-genetics@stanford.edu OR crew@community.morningbrew.com OR info@chromeunboxed.com OR snaps@mail.stockal.com OR support@aliabdaal.com OR ali@aliabdaal.com OR newsletter@info@chromeunboxed.com OR em.getonecard.app OR hello@fi.money OR jr@androidintel.net OR Duolingo@collegedekhonews.com OR offers@getonecard.app OR hi@glasp.co OR newsletter@investingmail.com OR thomas@collegeinfogeek.com OR team@80000hours.org OR googlestore-noreply@google.com OR notifications@chromeunboxed.com OR james@jamesclear.com OR googleassistant-noreply@google.com OR info@alerts.axisbankmail.in OR noreply@sliceit.com OR thekeyword-noreply@google.com OR no-reply@m.mail.coursera.org OR talk@cred.club OR noreply@mailers.upstox.com'/>
+		<apps:property name='hasTheWord' value='(&quot;get&quot; AND &quot;NeuCard&quot;) OR (&quot;OneCard&quot; AND &quot;Share&quot;) OR &quot;OneStore&quot; OR &quot;Unsubscribe&quot; OR (&quot;Click here&quot; AND &quot;never email&quot;) OR (&quot;Upstox&quot; AND &quot;MARKET RECAP&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;yippee&quot; AND &quot;slice&quot;) OR &quot;Transaction Alert&quot; OR &quot;Important Update&quot; OR &quot;approved&quot; OR (&quot;withdrawal&quot; AND &quot;successful&quot;) OR (&quot;OneCard statement&quot; AND &quot;is ready&quot;) OR (&quot;Welcome to&quot; AND &quot;Credit Cards&quot;)'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1660890494517</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*federalbank.co.in OR *federalrewards.in OR *fi.money OR *indusind.com OR *kotakbank.in OR *kotak.com OR *kotak.in OR *paypal.com OR *sbmbank.co.in OR *mobikwik.com OR *paytmbank.com OR *jupiter.money OR *amazonpay.in OR *payu.in OR *bandhanbank.com OR *phonepe.com OR *bankofindia.com OR *goniyo.com'/>
+		<apps:property name='label' value='Banks'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1660890513323</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*converse.in OR *heliosindia.com OR *hm.com OR *gumroad.com OR *reliancedigital.in OR *cromaretail.com OR *dailyobjects.com OR *flipkart.com OR *amazon.in OR *dbrand.com OR *lulugroupindia.net OR *caratlane.com OR *tatacliq.com OR *tatadigital.com OR *shopmoment.com OR *samsung.com OR *tataneu.com OR *jackjones.in OR *myntra.com OR  OR *bluedart.com OR *zara.com OR *nykaa.com OR *beminimalist.co OR *croma.com OR *karmanow.com'/>
+		<apps:property name='doesNotHaveTheWord' value='label:Banks OR label:Subscriptions OR label:Credit-Cards'/>
+		<apps:property name='label' value='Shopping'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1660890756859</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*udacity.com OR *khanacademy.org OR *qwiklabs.com  OR *coursera.org OR *umich.edu OR *wesbos.com OR *swayam2.iimb.ac.in OR *stanford.edu OR *gdg.community.dev OR *skillshare.com'/>
+		<apps:property name='label' value='e-Learning'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1661060367861</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*dbs.com OR *yesbank.in OR *yesbank.email OR *yesrewardz.com OR *cibil.com OR *icicibank.com OR *hdfcbank.net OR *sbicard.com OR *experian.com OR tataneu.com OR *mycardshdfcbank.co OR *uni.cards OR *axisbank.com OR *onescore.app OR *sliceit.com OR *cred.club OR *axisbankmail.com OR *paisabazaar.com OR *bajajfinserv.in OR *simpl-mails.com OR *axisbankmail.in OR *getonecard.app OR *transunion.com'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;CRED&quot; AND (&quot;loan closure&quot; OR &quot;cash balance&quot; )'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1661725003924</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='deliveredto:rsm@mixmax.com label:sent'/>
+		<apps:property name='shouldTrash' value='true'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001659433054340*4909676161447907581</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*topuniversities.com OR *collegedunia-mailer.com OR *amberstudent.com'/>
+		<apps:property name='label' value='College'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001659463582246*9216038741971678574</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='cc.statement@cards.dbs.com OR notify@getonecard.app OR estatement@yesbank.in OR transactions@fi.money OR Emailstatements.cards@hdfcbank.net OR estatements@indusind.com OR noreply@paytmbank.com OR BankStatements@kotak.com OR credit_cards@icicibank.com OR Statements@sbicard.com OR noreply-maps-timeline@google.com OR no-reply@paytm.com OR statements@indusind.com OR BankAlerts@kotak.com OR fedmail@federalbank.co.in OR email@qr.qatarairways.com OR no-reply@paytmbank.com OR noreply@jupiter.money OR statement@bandhanbank.com OR simpl.statement@simpl-mails.com OR federalbank@fi.money OR estatements@sbmbank.co.in OR cc.statements@axisbank.com OR statement@getonecard.app OR alerts@sliceit.com OR simpl.alerts@simpl-mails.com'/>
+		<apps:property name='hasTheWord' value='(&quot;OneCard statement&quot; AND &quot;is ready&quot;) OR &quot;eStatements&quot; OR &quot;Statement&quot; OR &quot;Simpl Bill&quot; OR (&quot;here&apos;s your&quot; AND &quot;Timeline update&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;Simpl&quot; AND &quot;Cashback&quot;)'/>
+		<apps:property name='label' value='Statements'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001659843756518*7177254776440122278</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='cards@icicibank.com OR no-reply@audible.in OR do_not_reply@audible.in OR prime@amazon.in OR notification@jio.com OR googleplay-noreply@google.com OR alerts@axisbank.com OR notifications@smallcase.com'/>
+		<apps:property name='hasTheWord' value='(&quot;Frequency&quot; AND (&quot;monthly&quot; OR &quot;annually&quot;) AND &quot;Mandate ID&quot;) OR &quot;Auto Pay&quot; OR &quot;Subscription&quot; OR &quot;SIP instalment&quot; OR &quot;Plan&quot; OR (&quot;Prime membership&quot; OR &quot;auto-renew Prime&quot; OR &quot;membership&quot;)'/>
+		<apps:property name='label' value='Subscriptions'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001660721163487*8244347148876937832</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='reports@phonepe.com OR no-reply@audible.in OR donotreply@audible.in OR help@beminimalist.co OR googleplay-noreply@google.com OR notifications@smallcase.com OR no-reply@flipkart.com OR noreply@nykaa.com'/>
+		<apps:property name='hasTheWord' value='&quot;Your receipt is attached&quot; OR (&quot;Audible&quot; AND &quot;thank you for your order&quot;) OR &quot;Order Receipt&quot; OR &quot;Invoice&quot; OR (&quot;Order&quot; AND (&quot;Delivered&quot; OR &quot;Successful&quot;)) OR &quot;your order has been delivered&quot; OR (&quot;Minimalist&quot; AND &quot;Order&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;has been cancelled&quot;'/>
+		<apps:property name='label' value='Reciepts'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001660753191407*8537208046071272800</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*coursera.org'/>
+		<apps:property name='subject' value='&quot;Congratulations, Your Certificate is Ready!&quot;'/>
+		<apps:property name='label' value='Certificates'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001661566133875*0980493499783498383</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply-photos@google.com OR google-noreply@google.com OR no-reply@dropbox.com OR noreply@reddit.com OR no-reply@bounce.imgur.com OR no-reply@todoist.com OR no-reply@account.evernote.com OR noreply@plex.tv OR googleone-noreply@google.com OR noreply@authy.com OR no_reply@snapchat.com OR no-reply@mobikwik.com OR care@paytm.com OR noreply@uphold.com OR no-reply@myntra.com OR no-reply@myunidays.com OR no-reply@email.slackhq.com OR paypal@mail.paypal.com OR no-reply@spotify.com OR no-reply@accounts.google.com OR noreply@groww.in OR googleplay-noreply@google.com OR workspace-noreply@google.com OR boxteam@customer.box.com OR noreply@customer.box.com OR noreply@sliceit.com OR noreply@phonepe.com'/>
+		<apps:property name='hasTheWord' value='(&quot;Account&quot; OR &quot;Updates&quot;) AND ((&quot;Storage&quot; AND &quot;low&quot; OR &quot;full&quot;) OR &quot;signed in&quot; OR &quot;connected&quot; OR &quot;Security&quot; OR &quot;Suspicious&quot; OR&quot;Alert&quot; OR &quot;Login&quot; OR &quot;Activity&quot; OR &quot;Terms of Service&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Order Reciepts&quot; OR &quot;refund&quot; OR &quot;Welcome&quot;'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001661664451385*4743361952283151368</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='appleid@id.apple.com OR noreply@apple.com OR mail@mail.adobe.com OR security@facebookmail.com OR noreply@bayyinah.tv OR account-update@amazon.com OR io-online@google.com OR account-update@amazon.in OR ckyc@ckycindia.in OR googlepayindia-support@google.com OR payments-noreply@google.com OR CloudPlatform-noreply@google.com OR noreply@email.productexperts.withgoogle.com OR notify@mail.notion.so OR userresearch@google.com OR paypal@mail.paypal.com OR businessprofile-noreply@google.com OR noreply@google.com OR noreply@online.nsdl.co.in OR aadhaar@uidai.gov.in OR noreply@digio.in'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001661946019000*0054796735852450680</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='donotreplypc@qatarairways.com.qa OR passport.admin@passportindia.gov.in OR noreply-travel@google.com OR noreply@zen-makemytrip.com OR email@qr.qatarairways.com OR noreply-maps-timeline@google.com OR noreply-local-guides@google.com'/>
+		<apps:property name='label' value='Travels'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666095414741*3161094768655648534</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='donotreply@audible.in OR test@indusind.com OR offers@sbicard.com OR Communications1@sbicard.com OR notify@notification.onescore.app OR thekeyword-noreply@google.com'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Audible&quot; AND ((&quot;credit&quot; AND &quot;is&quot; AND &quot;here&quot;) OR (&quot;Order&quot; AND &quot;Summary&quot;))'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001666456631681*7916254109225849522</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*cdslstatement.com OR *stockal.com OR *vestedfinance.co OR *mcxindia.com OR *kfintech.com OR *zerodha.net OR *indwealth.in OR *investingmail.com OR *incometax.gov.in OR *bseindia.com OR *bseindia.in OR *upstox.com OR *cdslindia.com OR *camsonline.com OR *cdslindia.co.in OR *nsdl.com OR *groww.in OR *angelbroking.in OR *nse.co.in OR *angelbroking.com OR *coindcx.com OR *smallcase.com OR *coinbase.com OR *tcplindia.co.in OR *cbmsl.co OR *alankit.com OR *cvlindia.in OR *indmoney.com OR *vestedfinance.com OR *multipl.xyz OR *paytmmoney.com OR *morningbrew.com'/>
+		<apps:property name='label' value='Investments'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001667907831685*1275229761223883660</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='CIBILREPORT@cibil.com OR news@newsletter.bajajfinserv.in OR info@consumereducation-in.experian.com OR ExperianCreditView-NoReply@experian.com OR ExperianCreditView@experian.com OR notify@notification.onescore.app OR offers@information.bajajfinserv.in OR no-reply@cibilscore.transunion.com OR noreply@transunion.com OR no-reply@bajajfinserv.in OR simpl.alerts@simpl-mails.com OR noreply@bajajfinserv.in'/>
+		<apps:property name='label' value='Loans'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001668316006744*4150052350156695970</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply-eventsatgoogle@google.com OR noreply@qs.com OR googlecloud@google.com OR googlecloudinnovators-noreply@google.com OR bytebytego@substack.com OR pragmaticengineer@substack.com OR no-reply@geeksforgeeks.org OR clinical-trials-design@stanford.edu'/>
+		<apps:property name='label' value='e-Learning'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001670581334145*8000209442669526087</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Loan facility&quot; OR &quot;CRED cash balance&quot; OR &quot;education loan&quot;'/>
+		<apps:property name='label' value='Loans'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001670581592867*5812144099596082998</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply@paytm.com'/>
+		<apps:property name='hasTheWord' value='&quot;Paytm for Business&quot;'/>
+		<apps:property name='label' value='Banks'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001670812391751*2047742189316574007</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='no-reply-info@paytmbank.com OR retailproducts@kotak.in OR hello@indusind.com OR support@jupiter.money'/>
+		<apps:property name='label' value='Banks'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001671099920053*5901826767476718179</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*bandlab.com OR *primevideo.com OR *audible.in OR *supercell.com OR *netflix.com OR *hotstar.com OR *youtube.com OR *shortform.com OR *bookmyshow.email OR *scribd.com OR *apple.com OR *sheerid.com OR *spotify.com'/>
+		<apps:property name='doesNotHaveTheWord' value='label:Shopping OR (label:Personal AND NOT &quot;YouTube&quot;) OR label:Banks'/>
+		<apps:property name='label' value='Entertainments'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001671101488737*0035403139653039631</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(&quot;Coupons&quot; OR &quot;Coupon&quot; OR (&quot;Grab&quot; AND &quot;Off&quot; AND &quot;Use Code:&quot;) OR &quot;Deals for you&quot; OR (&quot;Coupon&quot; AND &quot;Offer&quot;))'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;Order&quot; AND (&quot;Coupon Savings&quot; OR &quot;Coupon Discount&quot; OR &quot;shipped&quot;))'/>
+		<apps:property name='label' value='Coupons'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001671102414813*8411932640750166169</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(&quot;Ticket&quot; OR &quot;Tickets&quot;) OR ((&quot;Thank you&quot; OR &quot;Thanks&quot; OR &quot;Glad&quot;) AND &quot;for&quot; AND (&quot;Registration&quot; OR &quot;Booking&quot;)) OR'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;change in&quot; AND &quot;report&quot;) OR &quot;Unsubscribe&quot; OR &quot;Device Registration&quot; OR &quot;Morning Brew&quot; OR &quot;Recruitment&quot; OR &quot;Statement&quot; OR &quot;Debited&quot; OR &quot;Credited&quot; OR &quot;Transaction&quot; OR &quot;Statements&quot; OR (&quot;Raise&quot; AND &quot;Ticket&quot;)'/>
+		<apps:property name='label' value='Tickets'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001676542402483*0648170866943115055</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='comments-noreply@docs.google.com'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001679383237625*6623976734101020766</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='protect@cred.club OR no-reply@paytm.com'/>
+		<apps:property name='hasTheWord' value='(&quot;Your Bill Payment of&quot; AND &quot;Credit Card&quot; AND &quot;Successful&quot;)'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001680800546029*7209766314209349194</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*glassdoor.com OR *standardresume.co OR *linkedin.com OR *shine.com OR *indeed.com OR *totaljobsmail.com OR *naukri.com OR *upwork.com OR *asapkerala.gov.in'/>
+		<apps:property name='label' value='Work'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001681287018927*8149339622908788371</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@inspire.savee.it OR CreditCardsConnect@dbs.com OR bard-noreply@google.com OR hello@mail.producthunt.com OR iris.communication@custcom.yesbank.email OR no-reply@federalrewards.in OR newsletters@audible.in OR Info@digital.axisbankmail.com OR newsletter@em.lulugroupindia.net OR news@newsletter.bajajfinserv.in OR noreply@qs.com OR newsletter@economictimesnews.com OR care@etprime.com OR noreply@atherenergy.com OR no-reply@todoist.com OR communication@info.qs.com OR abdullahatta@notesnook.com OR TheChainsmokers@emails.sonymusicfans.com OR hello@shopmoment.com OR hello@sunbirdapp.com OR nicolas@markuphero.com OR info@join.netflix.com OR noreply1@samsung.com OR help@shortform.com OR crew@morningbrew.com'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690703470630*5701570649055013793</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@github.com OR googlefordevelopers-noreply@google.com OR hey@modestmitkus.com OR noreply@customers.gumroad.com OR workspace-noreply@google.com'/>
+		<apps:property name='label' value='Project'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001690873478826*2914723526729992699</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(arc.quadren.github.com)'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692506705307*3611680413453967435</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='information@hdfcbank.net OR noreply@upstox.com'/>
+		<apps:property name='hasTheWord' value='&quot;Unsubscribe&quot;'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Important&quot; OR (&quot;information&quot; AND &quot;you should know&quot;) OR &quot;Document received&quot; OR &quot;Kindly review the details of this request&quot;'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692600691088*6323898342875888482</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='alerts@hdfcbank.net OR alerts@yesbank.in OR alerts@cards.dbs.com'/>
+		<apps:property name='hasTheWord' value='(&quot;Alert&quot; AND &quot;transaction&quot; AND &quot;available limit&quot;) OR (&quot;Credit Balance Alert&quot;) OR (&quot;After&quot; AND &quot;transaction&quot; AND &quot;available balance&quot;) OR (&quot;transaction for&quot; AND &quot;got declined&quot;) OR (&quot;You have done&quot; AND &quot;UPI txn&quot;)'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001695899532802*4384803531036357486</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='protect@cred.club OR no-reply@paytm.com'/>
+		<apps:property name='hasTheWord' value='&quot;Credit Card&quot; AND &quot;Due&quot;'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001695983959425*6153945340228751561</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*idp.com OR *gre.ac.uk OR *mgu.ac.in OR *mdx.ac.uk'/>
+		<apps:property name='label' value='College'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001695984413430*0326233886938000472</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(&quot;MakeMyTrip&quot; AND &quot;unsubscribe&quot;) OR (&quot;slice&quot;) OR (&quot;Unlock&quot; AND &quot;Valueback&quot;) OR (&quot;unsubscribe&quot; AND (&quot;Dropbox&quot; OR &quot;Cardiogram&quot;)) OR (&quot;unsubscribe&quot; AND (&quot;Recommendations&quot; OR &quot;CUCU Covers&quot; OR &quot;SAVEE&quot;))'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;repayment&quot; OR &quot;Transaction&quot; OR &quot;dues&quot; OR &quot;refund&quot; OR &quot;request received&quot;) OR (&quot;Google Maps Timeline&quot;) OR (&quot;Google Cloud&quot;) OR (&quot;Thomas Frank&quot;) OR (&quot;Google Ads&quot; AND &quot;offer code&quot;) OR (&quot;Performance Report&quot;)'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696140856262*3813691799540952438</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Credit Card XXXXXXXXXXXX5370&quot;'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696302208246*5970206735198443185</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='subject' value='(&quot;Invitation from Google Calendar&quot;) OR (&quot;Your account will soon be deleted&quot;) OR (&quot;Your Apple ID was used to sign in to iCloud via a web browser.&quot;) OR (&quot;An app-specific password was generated for your Apple ID.&quot;)'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696304749874*3641636911871956144</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(&quot;001364857&quot;) OR ((&quot;education&quot; OR &quot;student&quot;) AND (&quot;admission&quot; OR &quot;college&quot; OR &quot;loan&quot;) ) AND (NOT (label:Work OR label:Personal)))'/>
+		<apps:property name='doesNotHaveTheWord' value='(&quot;Job&quot; AND (&quot;Application&quot; OR &quot;Recruitment&quot;) AND NOT SOP) OR label:Investments'/>
+		<apps:property name='label' value='College'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696511541626*1945187624255916320</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(label:Shopping) AND (&quot;Invoice&quot;)'/>
+		<apps:property name='label' value='Reciepts'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696514782796*3707709390842432457</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*gmail.com'/>
+		<apps:property name='doesNotHaveTheWord' value='(GDGCloudKochi@gmail.com OR cyrixclub@gmail.com) OR (&quot;---------- Forwarded message ---------&quot;)'/>
+		<apps:property name='label' value='Conversations'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696695629562*1408845098712069036</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;New login&quot; OR &quot;New sign-in&quot; OR &quot;Device Registration&quot;'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696695793537*8281837976432081532</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;freeCodeCamp&quot;'/>
+		<apps:property name='label' value='e-Learning'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696697844461*5295325272755848533</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='((&quot;sign in&quot; OR &quot;login&quot;) AND (&quot;code&quot; OR &quot;verification code&quot;) AND &quot;valid&quot; AND &quot;only&quot;) AND NOT label:Coupons'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Document&quot;'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696698369317*4258242000618269185</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;OTP from Croma&quot; OR &quot;Credit Card Bill Due! Pay Now at Paytm&quot; OR &quot;New device login detected in your Flipkart account&quot; OR &quot;, please verify your new device&quot; OR &quot;New sign-in to Pocket&quot;'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696737957304*6133317003587899709</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(&quot;Your order is on its way&quot;) OR (&quot;Order Confirmation&quot; AND &quot;Shipping Address&quot;) OR (&quot;successfully received your order&quot;) OR (&quot;1 package has been shipped to you&quot;)'/>
+		<apps:property name='label' value='Shopping'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696842048572*0906637918353985286</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*apple.com'/>
+		<apps:property name='hasTheWord' value='&quot;Subscription&quot; AND (&quot;Purchase&quot; OR &quot;Confirmation&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Invoice&quot;'/>
+		<apps:property name='label' value='Statements'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696843698070*2627712525580167737</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*apple.com'/>
+		<apps:property name='hasTheWord' value='(&quot;Membership&quot; OR &quot;Subscription&quot;) AND (&quot;Monthly&quot; OR &quot;Purchase&quot; OR &quot;/month&quot;)'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;EMI&quot;'/>
+		<apps:property name='label' value='Subscriptions'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696850037207*4503047251851231925</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='amazonpay-balance@amazon.in'/>
+		<apps:property name='hasTheWord' value='&quot;Amazon Pay India&quot; OR &quot;Amazon Pay Balance&quot;'/>
+		<apps:property name='label' value='Banks'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696853192965*7648046735454763241</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='gdgcloudkochi@gmail.com  OR googlecloudedu-noreply@google.com  OR kickstart-noreply@google.com'/>
+		<apps:property name='label' value='e-Learning'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696966136354*2185436688343398942</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*wise.com OR *convera.com'/>
+		<apps:property name='label' value='Banks'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001696967226550*4416198645277661574</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*news.karmanow.com'/>
+		<apps:property name='label' value='Newsletters'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697132391066*7908948393352348258</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*icicibank.com OR *scapia.cards'/>
+		<apps:property name='label' value='Credit Cards'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697218063625*7533356110727709533</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;University Of Greenwich&quot;'/>
+		<apps:property name='label' value='College'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697290875292*5767253786989654016</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*notion.so'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697426403801*3203501628547265444</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*thenounproject.com OR *ngrok.com OR *arc.net OR *github.com OR *codewithmosh.com OR *squarespace.com'/>
+		<apps:property name='label' value='Project'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001697615828536*5440678379543915247</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;Daily Data quota exhausted for Jio Number&quot;'/>
+		<apps:property name='label' value='Subscriptions'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001698896288265*8883658220069866373</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*gov.in'/>
+		<apps:property name='label' value='Legal'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001698923995483*5650796345708642709</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;EPFO&quot;'/>
+		<apps:property name='label' value='Work'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001698936495452*5450807529177981667</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='from' value='*cleartrip.com'/>
+		<apps:property name='label' value='Travels'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001699579805019*7840133938893737916</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;Happening now:&quot; AND &quot;is inviting you to a video call&quot;'/>
+		<apps:property name='label' value='Conversations'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001700227008316*7710699442995195516</id>
+		<updated>2023-12-19T16:59:34Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='(from:(*amazonpay.in) AND subject:(&quot;Payment Reminder&quot;))'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
